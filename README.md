@@ -6,4 +6,4 @@
 
 # [Deploy front-end](https://labeddit-front-end-leonardo-faruqi.surge.sh/)
 
-#[Deploy back-end](https://labeddit-backend-faruqi-leonardo.onrender.com)
+# [Deploy back-end](https://labeddit-backend-faruqi-leonardo.onrender.com)
