@@ -4,4 +4,6 @@
 
 # [Documentação do Postman](https://documenter.getpostman.com/view/27682798/2s9YJbzhPu)
 
-# [Deploy](https://labeddit-front-end-leonardo-faruqi.surge.sh/)
+# [Deploy front-end](https://labeddit-front-end-leonardo-faruqi.surge.sh/)
+
+#[Deploy back-end](https://labeddit-backend-faruqi-leonardo.onrender.com)
