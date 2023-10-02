@@ -1,1 +1,0 @@
-# projeto-labeddit-back-end
